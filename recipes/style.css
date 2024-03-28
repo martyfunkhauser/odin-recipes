@@ -1,0 +1,68 @@
+
+h1#header {
+    background-color: lavender;
+    border: 3px solid rgb(103, 34, 103);
+    color: rgb(100, 24, 89);
+    text-decoration: wavy;
+    text-align: center;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1#chicken {
+    background-color: salmon;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1#pork {
+    background-color:cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1#spaghetti {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+body {
+    background: cornsilk;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.chicken {
+    border: 3px solid rgb(103, 34, 103);
+    background: lavender;
+    padding: 15px;
+    display: inline-block;
+}
+
+.spaghetti {
+    border: 3px solid rgb(103, 34, 103);
+    background: lavender;
+    padding: 15px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+.pork {
+    border: 3px solid rgb(103, 34, 103);
+    background: lavender;
+    padding: 15px;
+    margin-top: 8px;
+    display: inline-block;
+}

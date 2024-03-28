@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../css-exercises/margin-and-padding"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "recipes"
+	}
+}
